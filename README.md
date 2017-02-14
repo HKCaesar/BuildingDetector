@@ -28,7 +28,7 @@ This was run on a fresh c4.xlarge AWS instance with the stock Ubuntu image.
 
 ```bash
 sudo apt-get update 
-sudo apt-get install python-pip python-shapely binutils libproj-dev gdal-bin cmake
+sudo apt-get install python-pip python-shapely binutils libproj-dev gdal-bin cmake python-opencv
 ```
 
 ## Install OpenCV
